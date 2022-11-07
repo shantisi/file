@@ -1,0 +1,1 @@
+open("pooja.text","a").close()
